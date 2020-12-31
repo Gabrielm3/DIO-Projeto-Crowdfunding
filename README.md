@@ -3,7 +3,7 @@ Projeto Base para Testes - .Net Core
 
 ## Digital Innovation One
 
-[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=H395IYS4Z6)  
+[Clique aqui para se inscrever na Digital Innovation One](https://digitalinnovation.one/sign-up?ref=S1B7VQTXG4)  
 
 ## Eliézer Zarpelão
 [GitHub Timeline](https://elizarp.github.io/timeline/)  
