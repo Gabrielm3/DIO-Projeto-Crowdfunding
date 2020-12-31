@@ -1,3 +1,18 @@
+# Projeto Crowdfunding(Vaquinha virtual online) da DIO.
+
+## Objetivo:
+
+Aprender sobre testes de software. Foi realizado os testes de Unidade, Integração e TDD.
+
+
+
+![](tests.png)
+
+
+
+#### ---------------------------------------------------------------------------------------------------------------
+
+
 # dotnet-vaquinha-tests
 Projeto Base para Testes - .Net Core  
 
